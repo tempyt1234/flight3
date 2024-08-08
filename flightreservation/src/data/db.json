@@ -1,0 +1,11 @@
+{
+    "passenger":[
+        {
+            "name":"sunil",
+            "email":"sunil@gmail.com",
+            "phone":123456789,
+            "address":"amalapuram",
+            "password":"1234"
+        }
+    ]
+}
